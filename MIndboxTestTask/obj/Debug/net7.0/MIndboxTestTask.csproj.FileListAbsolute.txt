@@ -1,0 +1,11 @@
+H:\Projects\MIndboxTestTask\MIndboxTestTask\bin\Debug\net7.0\MIndboxTestTask.deps.json
+H:\Projects\MIndboxTestTask\MIndboxTestTask\bin\Debug\net7.0\MIndboxTestTask.dll
+H:\Projects\MIndboxTestTask\MIndboxTestTask\bin\Debug\net7.0\MIndboxTestTask.pdb
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\MIndboxTestTask.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\MIndboxTestTask.AssemblyInfoInputs.cache
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\MIndboxTestTask.AssemblyInfo.cs
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\MIndboxTestTask.csproj.CoreCompileInputs.cache
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\MIndboxTestTask.dll
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\refint\MIndboxTestTask.dll
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\MIndboxTestTask.pdb
+H:\Projects\MIndboxTestTask\MIndboxTestTask\obj\Debug\net7.0\ref\MIndboxTestTask.dll
